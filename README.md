@@ -1,4 +1,4 @@
-# SCT_SE_1
+# SCT_SD_1
 # 🔥 Temperature Converter
 
 A simple Python project to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin** using a terminal-based menu system.
